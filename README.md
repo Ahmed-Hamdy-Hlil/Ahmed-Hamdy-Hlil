@@ -19,6 +19,9 @@ Trained a deep learning model for classifying satellite images from the EuroSAT 
 
 ### .. etc.
 
+## My Kaggle Projects
+[Check out my Kaggle projects here](https://www.kaggle.com/code/ahmedhamdy438)
+
 ---
 
 Feel free to check out my repositories and connect with me!
